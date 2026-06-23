@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Adam Khan 👋
 A passionate Python developer focusing on building [clean, efficient web applications / operational websites , HTML pages].
 
 ## 🛠️ Tech Stack & Skills
